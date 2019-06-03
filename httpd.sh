@@ -48,5 +48,6 @@ mailx -s "$service service has been fixed on $HOST- No Action" -r Maestro_CO@ski
 fi
 else
 echo "$service is running!!!"
+echo "I am maDHUKAR"
 fi
 fi
